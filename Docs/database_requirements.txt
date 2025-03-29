@@ -1,0 +1,20 @@
+SCHOOL MANAGEMENT SYSTEM DATABASE PROJECT
+
+Requirements
+1.Student Management:
+-Ability to add new students into the system, storing their personal details such as name, date of birth, gender, contact information, and address.
+2.Teacher Management:
+-Ability to add and manage teachers profiles, including their name, date of birth, gender, contact information, and address.
+-Option to assign teachers to specific courses and classes.
+3.Course Management:
+-Feature to create and manage courses offered by the school, specifying the course name, description, credit hours, and assigned teacher.
+4.Class Scheduling:
+-Ability to schedule classes by assigning courses to specific class periods, rooms, time schedules, and academic semesters.
+5.Grading System:
+-Recording the grades of each student for each course, allowing teachers to input grades, and edit them.
+6.Attendance Tracking
+-Tracking student attendance for each class session, marking students as present or absent.
+7.Student Assignment to Courses based on Groups
+-Allows to assign students to courses based on groups.
+8.Assignment Management
+-Feature to create and manage assignments for courses, specifying the description, due date, and associated course.
