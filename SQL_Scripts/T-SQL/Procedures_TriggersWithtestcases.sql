@@ -1,6 +1,6 @@
 --PROCEDURES
 --1. Calculate Average Score Of Student and his rank over all students(CURSOR)
-ALTER PROCEDURE CalculateAvgGradeAndRank @StudentId varchar(20)
+CREATE PROCEDURE CalculateAvgGradeAndRank @StudentId varchar(20)
 AS
     BEGIN
     DECLARE @AvgGrade FLOAT;
@@ -58,7 +58,7 @@ EXEC CalculateAvgGradeAndRank '29994' -- passed student
 EXEC CalculateAvgGradeAndRank '29997' --failed student
 
 --2 Insert Person into person table then insert into student table then assign student to group
-ALTER PROCEDURE AddPersonAndAssignToGroup
+CREATE PROCEDURE AddPersonAndAssignToGroup
     @p_Name VARCHAR(100),
     @p_Surname VARCHAR(100),
     @p_Pesel VARCHAR(20),
