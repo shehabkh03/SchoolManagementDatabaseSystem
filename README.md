@@ -23,5 +23,5 @@ You can choose one of the following database implementations:
 - **Vertabelo** – Used for designing the ERD diagram.
 
 ## ERD Diagram
-![ERD Diagram](ERD/erd-diagram.png)
+![ERD Diagram](ERD/Erd-diagram.png)
 
