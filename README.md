@@ -6,7 +6,7 @@ The **School Management Database System** is designed to efficiently store and m
 - [Technologies Used](#technologies-used) 
 - [ERD Diagram](#erd-diagram)
 - [Installation Instructions](#installation-instructions)
-- [Stored Procedures,Triggers, and Queries](#stored-procedures-and-triggers)
+- [Stored Procedures,Triggers, and Queries](#stored-procedures-,-triggers-,-and-queries)
 - [How To Test Stored Procedures and Triggers](#how-to-test-stored-procedures-and-triggers)
 
 
