@@ -1,5 +1,5 @@
 # Overview
-The **School Management Database System** is designed to efficiently store and manage school-related data, including students, teachers, courses, and grades. It provides a structured database with stored procedures and triggers to automate operations such as enrollment, grade assignment, and student ranking.
+The **School Management Database System** is designed to efficiently store and manage school-related data, including students, teachers, courses, and grades. It provides a structured database with stored procedures, triggers, And Queries to automate operations such as enrollment, grade assignment,student ranking, Acquiring Useful insights.
 
 ## Table of Contents
 - [Functionalities](#functionalities)
@@ -69,7 +69,9 @@ Triggers enforce **data integrity** and automate changes when specific events oc
 
 - **Validate Enrollment**: Prevents students from enrolling in conflicting courses.  
 - **Auto-Recalculate Grades**: Updates average grades when new scores are added.  
-- **Prevent Invalid Entries**: Ensures only valid data can be inserted into critical tables.  
+- **Prevent Invalid Entries**: Ensures only valid data can be inserted into critical tables.
+### 3. Queries
+SQL queries that include SELECT statements with WHERE conditions, queries that join multiple tables, queries that use GROUP BY with aggregate functions (such as COUNT, SUM, AVG), and queries that utilize subqueries to retrieve data based on nested conditions.
 
 ---
 
