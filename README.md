@@ -6,7 +6,7 @@ The **School Management Database System** is designed to efficiently store and m
 - [Technologies Used](#technologies-used) 
 - [ERD Diagram](#erd-diagram)
 - [Installation Instructions](#installation-instructions)
-- [Stored Procedures,Triggers, and Queries](#stored-procedures-,-triggers-,-and-queries)
+- [Stored Procedures, Triggers, and Queries](#stored-procedures-triggers-and-queries)
 - [How To Test Stored Procedures and Triggers](#how-to-test-stored-procedures-and-triggers)
 
 
@@ -55,7 +55,7 @@ SQL_Scripts/PL-SQL/Procedures_TriggersWithtestcases.sql
 ### 3. Final Step
 After running the scripts, your database should be properly configured. You can now test the stored procedures and triggers as described in the next section.
 
-## Stored Procedures,Triggers, and Queries  
+## Stored Procedures, Triggers, and Queries  
 
 ### 1. Stored Procedures  
 Stored procedures are used for handling automated operations within the database.  
